@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF=8"
+  <meta name="viewport"content ="width=device-width", initial-scale="1.0">
+  <link rel="stylesheet"href ="style.css">
+  <title>styling</title>
+</head>
+<body>
+  <section class="section"  
+  <h1 id="h1">Corporate Training <br> Made Easy</h1>
+  <p>Engaging and Empowering learning through tecnology.<br> 
+     Edutor is the perfect theme for your LMS platform</p>
+<ul>
+    <li>list item example lorem ipsum</li>
+    <li>list item example lorem ipsum</li>
+    <li>list item example lorem ipsum</li>
+</ul>
+<bottom id="button">Get Gtarted</bottom>
+</section>
+</body>
+</html>
